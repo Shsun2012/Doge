@@ -1,3 +1,4 @@
 # Doge
-a unity3d game /n
-a backup
+A unity3d game. 
+
+A backup.
